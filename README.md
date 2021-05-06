@@ -2,6 +2,7 @@
 # Exercise 4 - 
 
 YOUR NAME: mayu sagawa
+mayu sagawa
 
 STUDENT NUMBER: 15719035
 
