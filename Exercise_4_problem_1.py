@@ -53,8 +53,8 @@ print("71 degrees Fahrenheit in Celsius is:", fahr_to_celsius(71))
 # Write your answers below:
 
 # YOUR ANSWER HERE. Write your answers as comments
-#
-#
+#1. Yes. I could understand it.
+#2. The benefits of the function is that the code is straightfoward and can be reduced.
 #
 #
 
