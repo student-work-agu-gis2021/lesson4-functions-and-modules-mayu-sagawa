@@ -25,7 +25,7 @@ def fahr_to_celsius(temp_fahrenheit):
   parameters:temp_fahrenheit.
   returned values: converted_temp.
   """
-  converted_temp = (temp_fahrenheit-32)/18
+  converted_temp = (temp_fahrenheit-32)/1.8
   return converted_temp
 
 # ### Problem 1 tests
