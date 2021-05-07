@@ -65,6 +65,7 @@ temp_data =  [19, 21, 21, 21, 23, 23, 23, 21, 19, 21, 19, 21, 23, 27, 27, 28, 30
 
 
 # YOUR CODE HERE
+# Classify into 4
 import temp_functions
 temp_classes=[]
 for i in temp_data:
@@ -82,6 +83,7 @@ print(temp_classes)
 #   
 
 # YOUR CODE HERE
+# Count the total for each class. 
 zeros=0
 ones=0
 twos=0
